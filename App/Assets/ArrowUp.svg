@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 12" width="21" height="12">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="Symbols">
+		<g id="Bars/Navigation-Bar/iPhone---Compact/Light/Default">
+			<g id="Bars/Navigation-Bar/x/Left/Back-Button">
+				<path id="Tint-Color" fill-rule="evenodd" class="shp0" d="M20.93 10.56C20.93 11.34 20.32 11.95 19.55 11.95C19.16 11.95 18.81 11.8 18.54 11.53L10.53 3.33L2.54 11.53C2.27 11.8 1.9 11.95 1.53 11.95C0.75 11.95 0.14 11.34 0.14 10.56C0.14 10.18 0.29 9.86 0.54 9.6L9.45 0.48C9.75 0.15 10.13 -0.01 10.54 -0.01C10.95 -0.01 11.3 0.15 11.62 0.47L20.54 9.59C20.79 9.86 20.93 10.18 20.93 10.56Z" />
+			</g>
+		</g>
+	</g>
+</svg>
